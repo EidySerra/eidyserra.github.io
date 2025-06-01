@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ola+%F0%9F%91%8B+eu+sou+o+Edvaldo+Serra" alt="Typing SVG" /></a>
 
-<p align="left">🌍 Sou Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e react php C# <br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<p align="left">👨‍🎓 Sou estudante de engenharia <br><br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br><br>🎯 Foco em HTML, CSS, JavaScript, Python e react php C# <br><br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 ###
 
@@ -46,3 +46,13 @@
 ###
 
 <h3 align="left">Repositório de Projetos </h3>
+<p align="left">
+ <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
+ <b>Python</b> - Projetos e desafios em Python<br>
+ <b>SQL</b> - Consultas e banco de dados<br>
+ <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
+ <b>Aprendizado</b> - Anotações e mini-projetos
+</p>
+
+
+###
